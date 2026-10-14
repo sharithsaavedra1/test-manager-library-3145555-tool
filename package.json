@@ -1,0 +1,10 @@
+{
+  "name": "manager-library-tool",
+  "version": "1.0.0",
+  "description": "Herramienta de siembra masiva de datos de demostración consumiendo exclusivamente la API REST",
+  "main": "seeder.js",
+  "type": "module",
+  "scripts": {
+    "seed": "node seeder.js"
+  }
+}
